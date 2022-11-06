@@ -62,17 +62,3 @@ data
 ```
 You can change running parameters in the run.sh.
 
-
-# Citation
-If you find this repo or our work useful for your research, please consider citing the paper
-```
-@inproceedings{deng2021graph,
-  title={Graph neural network-based anomaly detection in multivariate time series},
-  author={Deng, Ailin and Hooi, Bryan},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={5},
-  pages={4027--4035},
-  year={2021}
-}
-```
