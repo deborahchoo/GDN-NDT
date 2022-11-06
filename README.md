@@ -62,9 +62,6 @@ data
 ```
 You can change running parameters in the run.sh.
 
-# Others
-SWaT and WADI datasets can be requested from [iTrust](https://itrust.sutd.edu.sg/)
-
 
 # Citation
 If you find this repo or our work useful for your research, please consider citing the paper
