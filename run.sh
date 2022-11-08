@@ -17,7 +17,7 @@ path_pattern="${DATASET}"
 COMMENT="${DATASET}"
 
 EPOCH=30
-report='val'
+report='best'
 
 if [[ "$gpu_n" == "cpu" ]]; then
     python main.py \
