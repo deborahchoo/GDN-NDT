@@ -1,6 +1,6 @@
 # modified GDN
 
-A modified version of GDN repo with Nonparametric dynamic error thresholding [(NDT)](https://github.com/khundman/telemanom)
+A modified version of GDN repo with Nonparametric dynamic error thresholding [(NDT)](https://github.com/khundman/telemanom) on MSL and SMD datasets
 
 
 # Installation
